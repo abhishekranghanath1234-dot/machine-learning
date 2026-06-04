@@ -1,0 +1,6 @@
+Country,Age,GenderSelect,EmploymentStatus,CurrentJobTitleSelect,Salary
+India,22,Male,Student,Data Analyst,300000
+India,25,Female,Employed,Software Engineer,600000
+USA,30,Male,Employed,Data Scientist,120000
+Canada,28,Female,Self-Employed,ML Engineer,95000
+Germany,35,Male,Employed,AI Researcher,110000
