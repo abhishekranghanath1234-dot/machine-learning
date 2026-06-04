@@ -1,0 +1,41 @@
+Currency,Symbol,Country,ConversionRateToUSD,ExampleValue
+USD,$,United States,1.00,100
+INR,₹,India,0.012,8300
+EUR,€,European Union,1.08,92
+GBP,£,United Kingdom,1.27,79
+JPY,¥,Japan,0.0069,14500
+CAD,C$,Canada,0.74,135
+AUD,A$,Australia,0.66,152
+SGD,S$,Singapore,0.74,135
+AED,د.إ,United Arab Emirates,0.27,367
+CNY,¥,China,0.14,710
+KRW,₩,South Korea,0.00073,137000
+CHF,CHF,Switzerland,1.11,90
+SEK,kr,Sweden,0.093,1070
+NZD,NZ$,New Zealand,0.61,164
+BRL,R$,Brazil,0.19,520
+ZAR,R,South Africa,0.054,1850
+MXN,$,Mexico,0.059,1690
+RUB,₽,Russia,0.011,9100
+SAR,﷼,Saudi Arabia,0.27,375
+HKD,HK$,Hong Kong,0.13,780
+THB,฿,Thailand,0.028,3560
+MYR,RM,Malaysia,0.21,475
+IDR,Rp,Indonesia,0.000061,1640000
+PKR,₨,Pakistan,0.0036,27800
+BDT,৳,Bangladesh,0.0085,11800
+NPR,₨,Nepal,0.0075,13300
+LKR,Rs,Sri Lanka,0.0033,30300
+VND,₫,Vietnam,0.000039,2560000
+TRY,₺,Turkey,0.031,3220
+EGP,£,Egypt,0.021,4760
+NGN,₦,Nigeria,0.00067,149000
+KES,KSh,Kenya,0.0077,13000
+ARS,$,Argentina,0.0011,91000
+PLN,zł,Poland,0.25,400
+DKK,kr,Denmark,0.15,680
+NOK,kr,Norway,0.094,1060
+PHP,₱,Philippines,0.017,5880
+CZK,Kč,Czech Republic,0.044,2280
+HUF,Ft,Hungary,0.0028,35700
+ILS,₪,Israel,0.27,370
